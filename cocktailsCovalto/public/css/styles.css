@@ -1,0 +1,4 @@
+/* solo permite que aparezca un poco mas centrado el contenedor */
+main>.container {
+    padding: 20px 30px 0;
+}
